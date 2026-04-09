@@ -1,0 +1,38 @@
+export const defaultPortfolioContent = {
+  site: {
+    name: '',
+    title: '',
+    location: '',
+    email: '',
+    phone: '',
+    metadataTitle: '',
+    metadataDescription: '',
+  },
+  hero: {
+    badge: '',
+    headlinePrimary: '',
+    headlineSecondary: '',
+    description: '',
+    primaryCtaLabel: '',
+    secondaryCtaLabel: '',
+  },
+  about: {
+    intro: '',
+    story: '',
+    mission: '',
+    availabilityText: '',
+    responsePromise: '',
+  },
+  social: {
+    github: '',
+    linkedin: '',
+    instagram: '',
+    tiktok: '',
+  },
+  stats: [],
+  highlights: [],
+  techStack: [],
+  services: [],
+  projects: [],
+  testimonials: [],
+}
